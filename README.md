@@ -17,4 +17,6 @@ Analyzed region-wise and salesperson-wise performance
 Visualized insights using Pivot Charts
 
 📈 This exercise helped me understand how analysts quickly slice, filter, and summarize large datasets to support decision-making.
-<img width="885" height="363" alt="Screenshot 2026-01-18 002256" src="https://github.com/user-attachments/assets/e2cd647c-ee41-48f6-a703-26e0aa8e4234" />
+<img width="1858" height="687" alt="Screenshot 2026-01-18 002317" src="https://github.com/user-attachments/assets/e51dcc5f-b6d3-4bdd-88fe-6350afb0e7ec" />
+<img width="1858" height="702" alt="Screenshot 2026-01-18 002436" src="https://github.com/user-attachments/assets/ed0a0aeb-fcf3-4bc4-93bd-9cd2fc7f67a6" />
+
